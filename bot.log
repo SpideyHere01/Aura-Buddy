@@ -1,0 +1,127 @@
+2024-10-10 13:27:12,079 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-10 13:27:12,080 - INFO - logging in using static token
+2024-10-10 13:27:13,911 - INFO - Shard ID None has connected to Gateway (Session ID: 7022e2c2b6860acfdc28caced25d334b).
+2024-10-10 13:27:15,933 - INFO - Loading role thresholds from role_thresholds.json
+2024-10-10 13:27:15,933 - INFO - RoleManagement cog initialized.
+2024-10-10 13:27:15,933 - INFO - RoleManagement cog loaded successfully.
+2024-10-10 13:27:15,948 - ERROR - Failed to load extension 'cogs.giveaura': Extension 'cogs.giveaura' raised an error: ClientException: Cog named 'Aura Management' already loaded
+2024-10-31 21:09:41,935 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-31 21:09:41,938 - discord.client - INFO - logging in using static token
+2024-10-31 21:09:43,872 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 957bff9656cedfe6d391b5d2ce25c113).
+2024-10-31 21:09:52,084 - bot - INFO - Logged in as Aura Buddy#7742
+2024-10-31 21:09:52,084 - bot - INFO - Successfully configured genai
+2024-10-31 21:09:52,093 - bot - INFO - cogs.aura loaded successfully
+2024-10-31 21:09:52,097 - root - INFO - RoleManagement cog loaded successfully.
+2024-10-31 21:09:52,098 - bot - INFO - cogs.role_management loaded successfully
+2024-10-31 21:09:52,099 - bot - INFO - cogs.check_aura loaded successfully
+2024-10-31 21:09:52,101 - bot - INFO - cogs.daily_challenge loaded successfully
+2024-10-31 21:09:52,103 - bot - INFO - cogs.feedback loaded successfully
+2024-10-31 21:09:52,106 - bot - INFO - cogs.interface loaded successfully
+2024-10-31 21:09:52,108 - bot - INFO - cogs.leaderboard loaded successfully
+2024-10-31 21:09:52,111 - bot - INFO - cogs.profile loaded successfully
+2024-10-31 21:09:52,114 - root - INFO - Loaded aura points from aura_points.json.
+2024-10-31 21:09:52,114 - root - INFO - Loaded last used times from last_used.json.
+2024-10-31 21:09:52,115 - root - INFO - Random Bonus cog loaded successfully.
+2024-10-31 21:09:52,115 - bot - INFO - cogs.randombonus loaded successfully
+2024-10-31 21:09:52,118 - bot - INFO - cogs.resetaura loaded successfully
+2024-10-31 21:09:52,122 - bot - INFO - cogs.tradeaura loaded successfully
+2024-10-31 21:09:52,124 - bot - INFO - cogs.giveaura loaded successfully
+2024-10-31 21:09:52,136 - bot - INFO - cogs.afk loaded successfully
+2024-10-31 21:09:52,139 - bot - INFO - cogs.common_cmd loaded successfully
+2024-10-31 21:09:52,143 - bot - INFO - fun.babu loaded successfully
+2024-10-31 21:09:52,145 - bot - INFO - fun.friendzone loaded successfully
+2024-10-31 21:09:52,147 - bot - INFO - fun.gali loaded successfully
+2024-10-31 21:09:52,149 - bot - INFO - fun.hyper_bakchod_mode loaded successfully
+2024-10-31 21:09:52,149 - bot - INFO - fun.insult loaded successfully
+2024-10-31 21:09:52,152 - bot - INFO - fun.lag loaded successfully
+2024-10-31 21:09:52,154 - bot - INFO - fun.mock loaded successfully
+2024-10-31 21:09:52,155 - bot - INFO - fun.roast loaded successfully
+2024-10-31 21:09:52,157 - bot - INFO - fun.tharki loaded successfully
+2024-10-31 21:09:52,158 - bot - INFO - fun.flirt loaded successfully
+2024-10-31 21:09:52,161 - bot.chat - INFO - Successfully set up Gemini model
+2024-10-31 21:09:52,162 - bot.chat - INFO - ChatCog loaded successfully.
+2024-10-31 21:09:52,162 - bot - INFO - ai.chat loaded successfully
+2024-10-31 21:09:52,163 - root - INFO - Role thresholds loaded successfully.
+2024-10-31 21:09:52,163 - root - INFO - Aura points loaded successfully.
+2024-10-31 21:09:52,164 - root - INFO - Aura points loaded successfully.
+2024-10-31 21:09:52,164 - root - INFO - User Aura Buddy has 1000000000000000 aura points.
+2024-10-31 21:09:52,164 - root - INFO - User MEE6 has 0 aura points.
+2024-10-31 21:09:52,164 - root - INFO - User Tatsu has 0 aura points.
+2024-10-31 21:09:52,164 - root - INFO - User Carl-bot has 0 aura points.
+2024-10-31 21:09:52,164 - root - INFO - User OwO has 0 aura points.
+2024-10-31 21:09:52,165 - root - INFO - User rigved526 has 0 aura points.
+2024-10-31 21:09:52,165 - root - INFO - User burrrrrrrrrrrahhhhhhhhhh has 0 aura points.
+2024-10-31 21:09:52,165 - root - INFO - User drago.exe has -99464 aura points.
+2024-10-31 21:09:52,165 - root - INFO - User jalkarna has 1100 aura points.
+2024-10-31 21:09:52,166 - root - INFO - User 0973x has 1002 aura points.
+2024-10-31 21:09:52,166 - root - INFO - User _yashvardhan_ has 999999999999304031 aura points.
+2024-10-31 21:09:52,166 - root - INFO - User shiftedscenes has 0 aura points.
+2024-10-31 21:09:52,166 - root - INFO - User dr.hangman has 0 aura points.
+2024-10-31 21:09:52,166 - root - INFO - User Based has -99 aura points.
+2024-10-31 21:09:52,167 - root - INFO - User aka.ronak has -1017 aura points.
+2024-10-31 21:09:52,167 - root - INFO - User the_ogadam has 0 aura points.
+2024-10-31 21:09:52,167 - root - INFO - User aka.spideyyy has 1000000704969 aura points.
+2024-10-31 21:09:52,167 - root - INFO - User Aura real has 0 aura points.
+2024-10-31 21:09:52,167 - root - INFO - User gyani has 0 aura points.
+2024-10-31 21:09:52,168 - root - INFO - Role sync completed.
+2024-10-31 21:12:11,010 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2024-10-31 21:12:11,012 - discord.client - INFO - logging in using static token
+2024-10-31 21:12:13,037 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 15c432f8908e6a5d05db5545a3ba6b0c).
+2024-10-31 21:12:18,844 - bot - INFO - Logged in as Aura Buddy#7742
+2024-10-31 21:12:18,845 - bot - INFO - Successfully configured genai
+2024-10-31 21:12:18,848 - bot - INFO - cogs.aura loaded successfully
+2024-10-31 21:12:18,849 - root - INFO - RoleManagement cog loaded successfully.
+2024-10-31 21:12:18,850 - bot - INFO - cogs.role_management loaded successfully
+2024-10-31 21:12:18,851 - bot - INFO - cogs.check_aura loaded successfully
+2024-10-31 21:12:18,853 - bot - INFO - cogs.daily_challenge loaded successfully
+2024-10-31 21:12:18,854 - bot - INFO - cogs.feedback loaded successfully
+2024-10-31 21:12:18,855 - bot - INFO - cogs.interface loaded successfully
+2024-10-31 21:12:18,856 - bot - INFO - cogs.leaderboard loaded successfully
+2024-10-31 21:12:18,858 - bot - INFO - cogs.profile loaded successfully
+2024-10-31 21:12:18,859 - root - INFO - Loaded aura points from aura_points.json.
+2024-10-31 21:12:18,859 - root - INFO - Loaded last used times from last_used.json.
+2024-10-31 21:12:18,859 - root - INFO - Random Bonus cog loaded successfully.
+2024-10-31 21:12:18,859 - bot - INFO - cogs.randombonus loaded successfully
+2024-10-31 21:12:18,862 - bot - INFO - cogs.resetaura loaded successfully
+2024-10-31 21:12:18,864 - bot - INFO - cogs.tradeaura loaded successfully
+2024-10-31 21:12:18,866 - bot - INFO - cogs.giveaura loaded successfully
+2024-10-31 21:12:18,873 - bot - INFO - cogs.afk loaded successfully
+2024-10-31 21:12:18,874 - bot - INFO - cogs.common_cmd loaded successfully
+2024-10-31 21:12:18,876 - bot - INFO - fun.babu loaded successfully
+2024-10-31 21:12:18,878 - bot - INFO - fun.friendzone loaded successfully
+2024-10-31 21:12:18,879 - bot - INFO - fun.gali loaded successfully
+2024-10-31 21:12:18,880 - bot - INFO - fun.hyper_bakchod_mode loaded successfully
+2024-10-31 21:12:18,882 - bot - INFO - fun.insult loaded successfully
+2024-10-31 21:12:18,883 - bot - INFO - fun.lag loaded successfully
+2024-10-31 21:12:18,884 - bot - INFO - fun.mock loaded successfully
+2024-10-31 21:12:18,885 - bot - INFO - fun.roast loaded successfully
+2024-10-31 21:12:18,886 - bot - INFO - fun.tharki loaded successfully
+2024-10-31 21:12:18,887 - bot - INFO - fun.flirt loaded successfully
+2024-10-31 21:12:18,890 - bot.chat - INFO - Successfully set up Gemini model
+2024-10-31 21:12:18,890 - bot.chat - INFO - ChatCog loaded successfully.
+2024-10-31 21:12:18,890 - bot - INFO - ai.chat loaded successfully
+2024-10-31 21:12:18,891 - root - INFO - Role thresholds loaded successfully.
+2024-10-31 21:12:18,891 - root - INFO - Aura points loaded successfully.
+2024-10-31 21:12:18,892 - root - INFO - Aura points loaded successfully.
+2024-10-31 21:12:18,892 - root - INFO - User Aura Buddy has 1000000000000000 aura points.
+2024-10-31 21:12:18,892 - root - INFO - User MEE6 has 0 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User Tatsu has 0 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User Carl-bot has 0 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User OwO has 0 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User rigved526 has 0 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User burrrrrrrrrrrahhhhhhhhhh has 0 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User drago.exe has -99464 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User jalkarna has 1100 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User 0973x has 1002 aura points.
+2024-10-31 21:12:18,893 - root - INFO - User _yashvardhan_ has 999999999999304031 aura points.
+2024-10-31 21:12:18,894 - root - INFO - User shiftedscenes has 0 aura points.
+2024-10-31 21:12:18,894 - root - INFO - User dr.hangman has 0 aura points.
+2024-10-31 21:12:18,894 - root - INFO - User Based has -99 aura points.
+2024-10-31 21:12:18,894 - root - INFO - User aka.ronak has -1017 aura points.
+2024-10-31 21:12:18,894 - root - INFO - User the_ogadam has 0 aura points.
+2024-10-31 21:12:18,895 - root - INFO - User aka.spideyyy has 1000000704969 aura points.
+2024-10-31 21:12:18,895 - root - INFO - User Aura real has 0 aura points.
+2024-10-31 21:12:18,895 - root - INFO - User gyani has 0 aura points.
+2024-10-31 21:12:18,895 - root - INFO - Role sync completed.
+2024-10-31 21:17:18,896 - root - INFO - Role thresholds loaded successfully.
+2024-10-31 21:17:18,898 - root - INFO - Aura points loaded successfully.

@@ -1,0 +1,431 @@
+{
+  "characters": [
+  {
+    "id": "001",
+    "name": "Drake",
+    "type": "legendary",
+    "description": "Canadian rapper, singer, and actor known for his chart-topping hits and memes.",
+    "image_url": "https://i.ytimg.com/vi/4HIvMSvlPnE/hqdefault.jpg"
+  },
+  {
+    "id": "002",
+    "name": "Cristiano Ronaldo",
+    "type": "legendary",
+    "description": "Portuguese football superstar, known for his incredible skills and goal-scoring ability.",
+    "image_url": "https://imgs.search.brave.com/W82xBTPzGADVR04n4XwhRscKxJsHpJkLCBLr6l_gfRU/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL2Vu/dHJpZXMvaWNvbnMv/bWVkaXVtLzAwMC8w/MzkvMjgxL2JycnIu/anBn"
+  },
+  {
+    "id": "003",
+    "name": "Pepe the Frog",
+    "type": "normal",
+    "description": "An internet meme that has become a popular symbol in online culture.",
+    "image_url": "https://www.rollingstone.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-15-at-11.24.37-AM.jpg"
+  },
+  {
+    "id": "004",
+    "name": "Wojak",
+    "type": "normal",
+    "description": "A simple, melancholic character often used in memes to express various emotions.",
+    "image_url": "https://uploads.dailydot.com/2024/02/Screenshot-2024-02-19-at-1.58.45-PM.png?auto=compress&fm=png"
+  },
+  {
+    "id": "005",
+    "name": "Gigachad",
+    "type": "legendary",
+    "description": "An idealized depiction of a physically attractive man, often used in memes.",
+    "image_url": "https://imgs.search.brave.com/cG3zhJ0UoucUPFx8zwwADuz9fwP9NUVU0W9xg76bl2s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvaGFu/ZHNvbWUtZ2lnYS1j/aGFkLWhtc3Zpamow/amk0ZGhlZHIuanBn"
+  },
+  {
+    "id": "006",
+    "name": "Doge",
+    "type": "normal",
+    "description": "A popular Shiba Inu dog meme known for its quirky expressions and internal monologue.",
+    "image_url": "https://i.pinimg.com/236x/8a/f4/fb/8af4fb5022164e73270adba8059d5e10.jpg"
+  },
+  {
+    "id": "007",
+    "name": "Dhoni",
+    "type": "legendary",
+    "description": "A meme featuring a young man with braces, used to describe unfortunate situations.",
+    "image_url": "https://i.pinimg.com/564x/cb/19/67/cb1967eed82bb9108f8fc9ff0c52cfea.jpg"
+  },
+  {
+    "id": "008",
+    "name": "Keanu Reeves",
+    "type": "legendary",
+    "description": "Actor known for his roles in The Matrix and John Wick, as well as his wholesome internet presence.",
+    "image_url": "https://imgs.search.brave.com/cxA5JO_n8WuVDMhnTQvBk51cjCagqU7Bufid8KmVmBA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGV4ZXJ0by5jb20v/Y2RuLWltYWdlL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzAz/LzI1L2hvdy10by13/YXRjaC1qb2huLXdp/Y2stNC0xMDI0eDU3/Ni5qcGc_d2lkdGg9/MTIwMCZxdWFsaXR5/PTc1JmZvcm1hdD1h/dXRv"
+  },
+  {
+    "id": "009",
+    "name": "Grumpy Cat",
+    "type": "normal",
+    "description": "A cat with a permanently grumpy expression that became an internet sensation.",
+    "image_url": "https://imgs.search.brave.com/aLf30Y5BYcBIdoS3FMTyIoY51dTkl--342YgwCTbmXw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmlu/c2lkZXIuY29tLzVj/ZGVlYzU5ZTlmMDhh/NmJmYzJhNGZlOD93/aWR0aD03MDA.jpeg"
+  },
+  {
+    "id": "010",
+    "name": "Elon Musk",
+    "type": "legendary",
+    "description": "Entrepreneur and CEO of Tesla and SpaceX, known for his ambitious projects and Twitter presence.",
+    "image_url": "https://imgs.search.brave.com/ZE3IUF95XXMzxQJZtTZNNX3MWOsKewW6oiMyh_lllTk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9waWNz/LmNyYWl5b24uY29t/LzIwMjQtMDMtMjAv/NVJDa0FHUkxTLW1j/TnNBZ1BUYTVyUS53/ZWJw"
+  },
+  {
+    "id": "011",
+    "name": "Distracted Boyfriend",
+    "type": "normal",
+    "description": "A stock photo meme depicting a man looking at another woman while with his girlfriend.",
+    "image_url": "https://imgs.search.brave.com/_LIru2mp7QeaW3-bTJHBTRsPwNJJvdzWTo5uekD6qcg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vbWVkaWFj/aG9tcC5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMTAv/ZnVsbC1kaXN0cmFj/dGVkLWJveWZyaWVu/ZC1zdG9yeS0wMS5q/cGc_cmVzaXplPTY1/MCw0MTcmc3NsPTE"
+  },
+  {
+    "id": "012",
+    "name": "Rickroll",
+    "type": "normal",
+    "description": "An internet prank involving unexpectedly linking to Rick Astley's 'Never Gonna Give You Up'.",
+    "image_url": "https://imgs.search.brave.com/4B3gPfJUxyeIC_cYZrvQGekwG_9C507e6EUVcWruB8c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAw/LzM2OS80ODgvNjFk/LmpwZWc"
+  },
+  {
+    "id": "013",
+    "name": "Nyan Cat",
+    "type": "normal",
+    "description": "An animated cat with a Pop-Tart body flying through space, leaving a rainbow trail.",
+    "image_url": "https://imgs.search.brave.com/-GaPQAFhBFB74otzeuOrvbOW9WmtaEWz_mHdALOzelc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA5LzIzLzM2Lzk2/LzM2MF9GXzkyMzM2/OTY5NF9odnRKZDZX/TEtiUllxVjhUN1JU/Y243bDBUcXNQNTdE/cS5qcGc"
+  },
+  {
+    "id": "014",
+    "name": "Beyoncé",
+    "type": "legendary",
+    "description": "American singer, songwriter, and actress, known as the 'Queen Bey' by her fans.",
+    "image_url": "https://imgs.search.brave.com/qfL-9WwtsG3zLRtP9YppbrCz8MgHxLol6D4uNACWRUg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0JleW9uYyVD/MyVBOV8tX1RvdHRl/bmhhbV9Ib3RzcHVy/X1N0YWRpdW1fLV8x/c3RfSnVuZV8yMDIz/Xyg1X29mXzExOClf/KDUyOTQ1OTAwMDA2/KV8oY3JvcHBlZF8y/KS5qcGc"
+  },
+  {
+    "id": "015",
+    "name": "Confused Math Lady",
+    "type": "normal",
+    "description": "A meme featuring a woman surrounded by mathematical equations, expressing confusion.",
+    "image_url": "https://imgs.search.brave.com/-dNP07pdzma2guEFg6zDj5jDCoTOldtkqUZdjvQ2tHQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL3Bo/b3Rvcy9pbWFnZXMv/bmV3c2ZlZWQvMDAx/LzE3OS81NDAvNTU0/LmpwZw"
+  },
+  {
+    "id": "016",
+    "name": "Thanos",
+    "type": "legendary",
+    "description": "The main antagonist from the Marvel Cinematic Universe, known for his 'snap'.",
+    "image_url": "https://imgs.search.brave.com/lkyfTC3ahwd2F08exz0B8OMKa65xx76fCbAjCKjfpOk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmNo/emJnci5jb20vZnVs/bC85MzEyODM0MDQ4/L2hFOTY0QkZCMC90/aGFub3MtbWVtZS10/ZXh0LXRoYW5vcy1h/dC10aGUtZW5kLW9m/LWVuZGdhbWUtcmVh/bGl0eS1jYW50YmUt/d2hhdGV2ZXItaS13/YW50.jpeg"
+  },
+  {
+    "id": "017",
+    "name": "Surprised Pikachu",
+    "type": "normal",
+    "description": "A meme featuring Pikachu with a shocked expression, used to depict feigned surprise.",
+    "image_url": "https://imgs.search.brave.com/HPGPv36d9FYpm_4OfIefYV_MY6djRQYGBqgy-I2Wufw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS53aXJlZC5jb20v/cGhvdG9zLzVmODcz/NDBkMTE0YjM4ZmEx/ZjgzMzlmOS9tYXN0/ZXIvd18xNjAwLGNf/bGltaXQvSWRlYXNf/U3VycHJpc2VkX1Bp/a2FjaHVfSEQuanBn"
+  },
+  {
+    "id": "018",
+    "name": "Disaster Girl",
+    "type": "normal",
+    "description": "A meme featuring a young girl smirking at the camera with a house fire in the background.",
+    "image_url": "https://imgs.search.brave.com/AhJ4cgK5L6tVFWQY9hQeN7vAgd6TjklgEYajSd3yRig/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/aHVmZmluZ3RvbnBv/c3QuY29tL2Fzc2V0/LzYwODgxZjdlMjIw/MDAwZDAzMWYwNWJj/Mi5qcGc_Y2FjaGU9/UVF6SElQMjFNViZv/cHM9c2NhbGVmaXRf/NzIwX25vdXBzY2Fs/ZQ"
+  },
+  {
+    "id": "019",
+    "name": "Ermahgerd",
+    "type": "loser",
+    "description": "A meme featuring a girl with braces expressing excitement in a unique way.",
+    "image_url": "https://imgs.search.brave.com/ZyCTxOcISxs72kYwAI2H6s182vIOooyuja94NFSHLMw/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9kLm5l/d3N3ZWVrLmNvbS9l/bi9mdWxsLzY2Mjg0/Mi9lcm1haGdlcmQu/anBn"
+  },
+  {
+    "id": "020",
+    "name": "Baby Yoda",
+    "type": "legendary",
+    "description": "A character from The Mandalorian series, known for its cuteness and meme potential.",
+    "image_url": "https://imgs.search.brave.com/KyNG_1WXGovwS1NA4Gka0ZnXYrlJzv60jIA-HA92nko/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly92YXJp/ZXR5LmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAxOS8xMS9i/YWJ5LXlvZGEuanBn/P3c9MTAwMCZoPTY2/NyZjcm9wPTE"
+  },
+  {
+    "id": "021",
+    "name": "NPC Meme",
+    "type": "legendary",
+    "description": "A meme depicting people as non-player characters (NPCs) in video games.",
+    "image_url": "https://pbs.twimg.com/media/GTSlEIyaYAAjhs9.jpg"
+  },
+  {
+    "id": "022",
+    "name": "Carry Minati",
+    "type": "legendary",
+    "description": "A viral sensation that is ruling over indian youtube community.",
+    "image_url": "https://media.discordapp.net/attachments/1303929666851180555/1305552486551126087/ad0e07a6a28a3b73f3b5a168df889657.jpg?ex=67337200&is=67322080&hm=3a7ff8b5bbe9bc712a1b3d85e2fa7fb900471fe250b0c6f3a43d2d5aa6c59c9f&=&format=webp&width=442&height=662"
+  },
+  {
+    "id": "023",
+    "name": "Chad vs. Virgin",
+    "type": "legendary",
+    "description": "A meme format comparing idealized 'Chad' characters to less desirable 'Virgin' counterparts.",
+    "image_url": "https://imgs.search.brave.com/OO_RWmAAgFofgpfeBDKCxhvIrG8JbdtqT0lBrpXwJU0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/NXU5ZjR0LmpwZw"
+  },
+  {
+    "id": "024",
+    "name": "I show speed",
+    "type": "legendary",
+    "description": "A meme concept of a crazy wolf type of man who is self-reliant and outside of traditional social hierarchies.",
+    "image_url": "https://imgs.search.brave.com/BGDfmVvkXDCGMPjkUR2g82a202ejxrUMrS4bKH9xwZg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9wcmV2/aWV3LnJlZGQuaXQv/ZzQycGo3aG90ZWJk/MS5qcGc_d2lkdGg9/NjQwJmNyb3A9c21h/cnQmYXV0bz13ZWJw/JnM9NDVjZDkwNTcx/MDYzYzAwODVhNzAz/YzU4N2JhYzQ2ZThh/NWI1ODU4Yg"
+  },
+  {
+    "id": "025",
+    "name": "Andrew Tate Parody",
+    "type": "legendary",
+    "description": "Parody memes based on the controversial internet personality Andrew Tate.",
+    "image_url": "https://i.pinimg.com/736x/92/0b/62/920b628020c18c52085cfbb8ce7db690.jpg"
+  },
+  {
+    "id": "026",
+    "name": "MrBeast",
+    "type": "legendary",
+    "description": "Popular YouTuber known for his expensive stunts and giveaways, often featured in memes.",
+    "image_url": "https://imgs.search.brave.com/vT70Zr_HbeEbzSRjBtQdq7mmyeNfJ-prWegw73XJJs0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL2Vu/dHJpZXMvaWNvbnMv/bWVkaXVtLzAwMC8w/NTAvODk2L2ZyYXVk/Y292ZXIuanBn"
+  },
+  {
+    "id": "027",
+    "name": "Aizen sosuke",
+    "type": "legendary",
+    "description": "Aizen is a cunning and strategic antagonist from *Bleach*, known for his immense power, intellect, and manipulation, often orchestrating events from behind the scenes to achieve his goals.",
+    "image_url": "https://i.pinimg.com/736x/75/08/7c/75087cdc1be46c672d6417b5e0e7cf9d.jpg"
+  },
+  {
+    "id": "028",
+    "name": "NPC Walks",
+    "type": "normal",
+    "description": "A TikTok trend mimicking the repetitive walking patterns of video game NPCs.",
+    "image_url": "https://imgs.search.brave.com/mAAdEfYZimb8R8pddCq6MaEUWAyIvx6YXrGxXbDkA4I/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmlt/Z2ZsaXAuY29tLzQv/Mms0OHQwLmpwZw"
+  },
+  {
+    "id": "029",
+    "name": "Wojak Variants",
+    "type": "normal",
+    "description": "Various iterations and adaptations of the original Wojak character.",
+    "image_url": "https://imgs.search.brave.com/6NtU9HxzDrdu_gE-GWsfEd4Ynt4PLyDqfYfQVWfVRYs/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmt5/bS1jZG4uY29tL2Vu/dHJpZXMvaWNvbnMv/bWVkaXVtLzAwMC8w/MzQvNTk3L0hRR3Iu/cG5n"
+  },
+  {
+    "id": "030",
+    "name": "Solar Eclipse Memes",
+    "type": "normal",
+    "description": "Memes related to solar eclipse events and people's reactions to them.",
+    "image_url": "https://imgs.search.brave.com/O8JpaXgr5gBU3SeZYSXXIaXYp8s1iIQxbiugIvMA7Ow/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGlnaXRhbG1vbWJs/b2cuY29tL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDI0LzA0L2Vj/bGlwc2UtY292ZXIt/dXAtbWVtZS5qcGVn"
+  },
+  {
+    "id": "031",
+    "name": "Silly Goose Trend",
+    "type": "normal",
+    "description": "A trend of calling someone or something a 'silly goose' in a playful manner.",
+    "image_url": "https://imgs.search.brave.com/Oc5bdi0f8B2TIy2pXLh6MAR-ndDafHZKk51TA21T7J8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzQ1ODkzNTQxL2Mv/OTAwLzkwMC8wLzAv/aWwvZmQ2MTBmLzUz/NzA0MzY4OTUvaWxf/NjAweDYwMC41Mzcw/NDM2ODk1XzlmZGgu/anBn"
+  },
+  {
+    "id": "032",
+    "name": "Renji abarai",
+    "type": "loser",
+    "description": "A pineapple-haired Soul Reaper who fights with sheer determination, questionable luck, and a constant struggle to not get shown up by his own sword.",
+    "image_url": "https://i.pinimg.com/736x/c9/a5/02/c9a502e68ad418eba80e8ad44ef3b892.jpg"
+  },
+  {
+    "id": "033",
+    "name": "Galaxy Brain",
+    "type": "normal",
+    "description": "A multi-panel meme showing increasingly complex thoughts represented by glowing brains.",
+    "image_url": "https://i.pinimg.com/236x/4e/8c/d2/4e8cd2fcb19ecb7462bf949aefc9e4f7.jpg"
+  },
+  {
+    "id": "034",
+    "name": "Little Miss Meme",
+    "type": "normal",
+    "description": "Memes based on the 'Little Miss' and 'Mr. Men' book series characters.",
+    "image_url": "https://i.pinimg.com/564x/72/cf/0f/72cf0fbd22dd30fccb2f28a06d511200.jpg "
+  },
+  {
+    "id": "035",
+    "name": "Meme Man",
+    "type": "loser",
+    "description": "A poorly rendered 3D head used in surreal memes, often accompanied by misspelled words.",
+    "image_url": "https://i.pinimg.com/564x/c3/7f/74/c37f74f481d14229ed6e4f5001ecadef.jpg"
+  },
+  {
+    "id": "036",
+    "name": "Penguin of Doom",
+    "type": "loser",
+    "description": "An old copypasta meme representing random and quirky behavior.",
+    "image_url": "https://i.pinimg.com/564x/4b/f5/17/4bf517414d67e0f518c379ab47134749.jpg"
+  },
+  {
+    "id": "037",
+    "name": "Kisuke urahara",
+    "type": "legendary",
+    "description": "The charmingly shady shopkeeper who’s either saving the day or causing chaos, all while hiding enough secrets under his hat to make even his flip-flops nervous",
+    "image_url": "https://imgs.search.brave.com/u_jbTOJFbmqg6szFLyHSSySF5JwmHFSHhW4WOO-xY6w/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMud2lraWEubm9j/b29raWUubmV0L2Js/ZWFjaGFrdWppbi9p/bWFnZXMvNC80Yy9L/aXN1a2VfVXJhaGFy/YS5wbmcvcmV2aXNp/b24vbGF0ZXN0L3Nj/YWxlLXRvLXdpZHRo/LWRvd24vMjAwP2Ni/PTIwMTAwNTI2MDM0/NDQ2.jpeg"
+  },
+  {
+    "id": "038",
+    "name": "Yes Chad",
+    "type": "normal",
+    "description": "A meme featuring a simplified, muscular blonde man saying 'Yes'.",
+    "image_url": "https://imgs.search.brave.com/BcudS3VdRkA2UWFiLMIteBwUZSCUQXZtibdmncHc61Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9paDEu/cmVkYnViYmxlLm5l/dC9pbWFnZS4zMDY3/NDI0Nzc0LjQ3MDMv/cHAsNTA0eDQ5OC1w/YWQsNjAweDYwMCxm/OGY4ZjguanBn"
+  },
+  {
+    "id": "039",
+    "name": "Jee aspirant",
+    "type": "loser",
+    "description": "Average indian kid who is studying irrelevant subjects to get in some college (Rat racer).",
+    "image_url": "https://imgs.search.brave.com/WnGjmvYvRYZFbYq9ku0HyrC1YjrHBJyWwj-l1NM2Wq8/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzk3L2M1/LzAwLzk3YzUwMDZj/NWZlNGQ3MTk3YmJl/ODhkMWYxNzk5MDU5/LmpwZw"
+  },
+  {
+    "id": "040",
+    "name": "Toilet Tyrant",
+    "type": "legendary",
+    "description": "A fearsome bathroom overlord, ruling with an iron flush.",
+    "image_url": "https://i.pinimg.com/736x/df/d5/b3/dfd5b342eb87b452812afd64a3982568.jpg"
+  },
+  {
+    "id": "041",
+    "name": "Bizarre Bidet",
+    "type": "legendary",
+    "description": "An eccentric water feature with unpredictable spraying patterns.",
+    "image_url": "https://i.pinimg.com/736x/4c/e9/f6/4ce9f695640853e1e888d3ddfcd45ee2.jpg"
+  },
+  {
+    "id": "042",
+    "name": "Lurking Loo",
+    "type": "legendary",
+    "description": "A sneaky toilet that appears when least expected.",
+    "image_url": "https://media.discordapp.net/attachments/1302204923672399873/1303408644393799681/image.png"
+  },
+  {
+    "id": "043",
+    "name": "Bathroom Banshee",
+    "type": "legendary",
+    "description": "A wailing spirit that haunts restrooms with its eerie cries.",
+    "image_url": "https://cdn.discordapp.com/attachments/1302204923672399873/1303409122296729662/image.png"
+  },
+  {
+    "id": "044",
+    "name": "Bhuvan bam",
+    "type": "legendary",
+    "description": "The king of chaos and comedy in one crazy package.",
+    "image_url": "https://imgs.search.brave.com/OHdm153ZXeti5XYhiEwE2LvdrjxqUCn42rxvU39PNzg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbmRp/YW5tZW1ldGVtcGxh/dGVzLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvdGl0dS1tYW1h/LWFuZ3J5LTEwMjR4/NjMxLmpwZw"
+  },
+  {
+    "id": "045",
+    "name": "Salman khan",
+    "type": "legendary",
+    "description": "Bhai of Bollywood who turned 'Commitment' into a meme and driver into a dangerous profession",
+    "image_url": "https://imgs.search.brave.com/F18AD80zzka_59ylHGbPF8YyunbV-hUq_Ymr7dWcsVA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9odW1v/cm5hbWEuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzEx/L1NhbG1hbi1LaGFu/LUNyeWluZy1NZW1l/LVRlbXBsYXRlLW9u/LVRlcmUtTmFhbS0x/MDI0eDYxNC5qcGc_/ZXppbWdmbXQ9bmc6/d2VicC9uZ2NiMS9y/czpkZXZpY2UvcnNj/YjEtMQ"
+  },
+  {
+    "id": "046",
+    "name": "Pookie baba",
+    "type": "normal",
+    "description": "A constant, nerve-wracking drip that instills fear.",
+    "image_url": "https://imgs.search.brave.com/7byLtkEIpx4IuNSZfbnLD6JoIsVjeIWugpNnxJ-hl7s/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/bWVkaWFiaXJkbWFn/LmNvbS93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNC8wOS9wb29r/aWUtYmFiYS0yLTEw/MjR4NjgzLndlYnA"
+  },
+  {
+    "id": "047",
+    "name": "Ashish chanchalani",
+    "type": "legendary",
+    "description": "The king of desi vines who made 'Kya kar raha hai tu?' a national catchphrase",
+    "image_url": "https://imgs.search.brave.com/wmHUd2vVyUUEkhpd7QfvIDHPTolReaBCJKLCpBB8CGk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuaXdtYnV6ei5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MjAvMTEvYmh1dmFu/LWJhbS1jYXJyeW1p/bmF0aS1hbmQtYXNo/aXNoLWNoYW5jaGxh/bmlzLWZ1bm55LXBp/Y3R1cmVzLTIuanBn"
+  },
+  {
+    "id": "048",
+    "name": "Baldev destroyer",
+    "type": "normal",
+    "description": "Majdur with power.",
+    "image_url": "https://imgs.search.brave.com/lQJtFlntlhAGRPoQ00dBkqUdvOhNz-4YmzHo4LAw8Pk/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFVdStvZXFCTEwu/anBn"
+  },
+  {
+    "id": "049",
+    "name": "Arpit Bala",
+    "type": "legendary",
+    "description": "Maharani of memes.",
+    "image_url": "https://imgs.search.brave.com/4vF48WD2UV2KpmGw5aO7Q8Xe2JfDhzGI0WJZdrKYhVg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93aHl0/cmVuZGluZy5pbi93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8x/Mi9hcnBpdC0yNDZ4/MzAwLmpwZw"
+  },
+  {
+    "id": "050",
+    "name": "Elvish yadav",
+    "type": "normal",
+    "description": "The controversial creator who made 'Systum' his brand and BB ki vines his inspiration",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcoCLxuSIESBqO962mQJjeI1EdopfPgkn8Lw&s"
+  },
+  {
+    "id": "051",
+    "name": "Kulhad pizza",
+    "type": "loser",
+    "description": "Teri dhuyi itni upar kyu h .. ?.",
+    "image_url": "https://i.pinimg.com/736x/79/31/e8/7931e81d02df8b5e8788c20ddd20793f.jpg "
+  },
+  {
+    "id": "052",
+    "name": "Puneet superstar",
+    "type": "normal",
+    "description": "Pagal hu dost.",
+    "image_url": "https://i.pinimg.com/564x/b8/13/28/b8132890000bf87e4db709ef90d92186.jpg "
+  },
+  {
+    "id": "053",
+    "name": "Juice pila do",
+    "type": "normal",
+    "description": "Mosambii ka aahh..",
+    "image_url": "https://i.pinimg.com/736x/ee/96/4b/ee964b79f473d5183812148dec1231ae.jpg"
+  },
+  {
+    "id": "054",
+    "name": "Emotional damage",
+    "type": "loser",
+    "description": "Asian dad whose 'EMOTIONAL DAMAGE' became therapy's biggest competitor",
+    "image_url": "https://i.pinimg.com/564x/fa/74/3d/fa743dc0941f2de87615416458c74cdb.jpg"
+  },
+  {
+    "id": "055",
+    "name": "Rajat dalaal",
+    "type": "loser",
+    "description": "Lafda karo bisi",
+    "image_url": "https://cdn.discordapp.com/attachments/1262745925932290068/1305428472486826126/YWxhbC5qcGc.png?ex=6732fe81&is=6731ad01&hm=12b97f13c2d55c44ea6fd0b21988b7f35c75a700073d811398c649a99c893715&"
+  },
+  {
+    "id": "056",
+    "name": "Daaru piyega",
+    "type": "loser",
+    "description": "A monstrous presence that dwells in bathroom sinks.",
+    "image_url": "https://cdn.discordapp.com/attachments/1262745925932290068/1305428130403450930/image.png?ex=6732fe2f&is=6731acaf&hm=b2520aee8ad1578063fbeca241144fb00532815e7f4f1500fc8f5bb332321b3c&"
+  },
+  {
+    "id": "057",
+    "name": "Donald trump",
+    "type": "legendary",
+    "description": "The president who turned 'Huge', 'China' and 'Wall' into global meme material",
+    "image_url": "https://i.pinimg.com/564x/ef/02/da/ef02dafa6a55803f52dea1dc02d24395.jpg"
+  },
+  {
+    "id": "058",
+    "name": "Kamla harris",
+    "type": "normal",
+    "description": "First female VP whose 'We did it, Joe!' became an instant meme classic",
+    "image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCiDELf8UUTUzVwzYD-zw7jiZgl-UaHmIA9tBdE9nOd5gUq2_A"
+  },
+  {
+    "id": "059",
+    "name": "Rishi sunak",
+    "type": "normal",
+    "description": "UK's PM whose Indian connection and wealth became meme content",
+    "image_url": "https://i.pinimg.com/736x/87/a9/3d/87a93d58656c2b35e600ea632fba1a44.jpg "
+  },
+  {
+    "id": "060",
+    "name": "Modi",
+    "type": "legendary",
+    "description": "PM whose 'Mitron' and 'Chai' became part of meme culture",
+    "image_url": "https://i.pinimg.com/474x/40/9a/7f/409a7fa2871c95cfc7a3e0f0ad1b8a3e.jpg"
+  },
+  {
+    "id": "061",
+    "name": "Samay raina",
+    "type": "legendary",
+    "description": "Chess player turned comedian who made 'Kya re public' his signature",
+    "image_url": "https://i.pinimg.com/736x/a8/4c/7c/a84c7cd9ce63af695b7adb8395c08a92.jpg "
+  }
+]
+}
