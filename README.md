@@ -95,5 +95,3 @@ DM me on Discord if you're a dev and wanna collab.
 MIT — do whatever you want, just don’t sell it without changing stuff 😄
 
 ---
-
-Would you like me to update your README.md file with these corrections?
